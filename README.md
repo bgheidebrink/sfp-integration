@@ -1,5 +1,8 @@
-# Seller Fulfilled Prime Netsuite Integration
-### Powered by Ben running on a treadmill and a dash of Haskell
+# Netsuite Integration - SFP
+#### Powered by Ben H. running on a treadmill and a dash of Haskell
+
+
+
 
 ## Game Plan
 The idea behind this integration is to deviate as little as possible from our current fulfillment process. The general idea is to identify orders that have come down from Amazon into the fulfillments will be automatically identified at the Item Fulfillment generation.
